@@ -1,4 +1,4 @@
-#Airlines_Data_Analysis_Project
+# Airlines_Data_Analysis_Project
 Goal of this Project would be to identify opportunities to increase the occupancy rate on low-performing flights, which can ultimately lead to increased profitability for the airline.
    # Main Challenges
 1. Stricter environmental regulations: The demand on the airlines industry
